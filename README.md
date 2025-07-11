@@ -1,12 +1,12 @@
 # 🧪 Cybersecurity HomeLab  
 **Hands-on practice with real-world attacks and detection**
 
-## 🎯 Why I Built This
+##  Why I Built This?
 I wanted a safe and practical way to learn cybersecurity — not just through theory, but by doing. This HomeLab gives me the space to test real attack scenarios, watch how systems react, and learn how to detect and defend against them using tools like Splunk, Sysmon, and Metasploit. It’s helping me grow both red and blue team skills.
 
 ---
 
-## 🧠 What I'm Learning
+##  What I'm Learning
 
 - **Virtualization & Networking**
   - Spinning up Kali Linux, Windows 10, and Ubuntu VMs in VirtualBox
@@ -26,12 +26,12 @@ I wanted a safe and practical way to learn cybersecurity — not just through th
 
 ---
 
-## 🛠️ How I Set It Up
+##  How I Set It Up
 
 1. **Virtual Machines**
-   - 🐱 Kali Linux – Attacker machine  
-   - 🪟 Windows 10 – Victim machine  
-   - 🐧 Ubuntu – Log server running Splunk or Wazuh
+   -  Kali Linux – Attacker machine  
+   -  Windows 10 – Victim machine  
+   -  Ubuntu – Log server running Splunk or Wazuh
 
 2. **Logging & Visibility**
    - Installed **Sysmon** on Windows to monitor system activity
@@ -47,6 +47,6 @@ I wanted a safe and practical way to learn cybersecurity — not just through th
    - Looked for suspicious process creation, RDP access, and network traffic
 
 5. **Lessons Learned**
-   - Every mistake (and there were plenty!) helped me understand more about networking, detection, and how real attackers operate.
+   - Every mistake (and there were quite alot!) helped me understand more about networking, detection, and how real attackers operate in real situations.
 
 ---
